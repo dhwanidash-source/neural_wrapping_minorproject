@@ -1,4 +1,4 @@
-# neural_wrapping_minorprojec
+# neural_wrapping_minorproject
 # Neural Post-Processor for JPEG Artifact Removal
 
 > Inspired by **"Perceptual Video Compression with Neural Wrapping"** — Khan et al., CVPR 2025 (Sony Interactive Entertainment)
