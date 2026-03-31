@@ -1,0 +1,2502 @@
+[
+  {
+    "quality": 10,
+    "psnr_compressed": 28.829594100479774,
+    "psnr_enhanced": 29.25559879159852,
+    "psnr_gain": 0.42600469111874517,
+    "ssim_compressed": 0.7953981757164001,
+    "ssim_enhanced": 0.8207182288169861,
+    "ssim_gain": 0.025320053100585938,
+    "image": "100007.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 32.34474812450288,
+    "psnr_enhanced": 32.92913599382116,
+    "psnr_gain": 0.5843878693182845,
+    "ssim_compressed": 0.8670985698699951,
+    "ssim_enhanced": 0.8886122107505798,
+    "ssim_gain": 0.021513640880584717,
+    "image": "100007.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 33.67656437887345,
+    "psnr_enhanced": 34.00552125477999,
+    "psnr_gain": 0.32895687590654177,
+    "ssim_compressed": 0.8955433368682861,
+    "ssim_enhanced": 0.9124062061309814,
+    "ssim_gain": 0.016862869262695312,
+    "image": "100007.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 34.87662460173246,
+    "psnr_enhanced": 35.21589905281564,
+    "psnr_gain": 0.33927445108317755,
+    "ssim_compressed": 0.9126299023628235,
+    "ssim_enhanced": 0.9247140884399414,
+    "ssim_gain": 0.01208418607711792,
+    "image": "100007.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.66764470454065,
+    "psnr_enhanced": 35.773188974535074,
+    "psnr_gain": 0.10554426999442512,
+    "ssim_compressed": 0.9246332049369812,
+    "ssim_enhanced": 0.9325278401374817,
+    "ssim_gain": 0.007894635200500488,
+    "image": "100007.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.25967624288772,
+    "psnr_enhanced": 23.618512316267577,
+    "psnr_gain": 0.35883607337985524,
+    "ssim_compressed": 0.7392577528953552,
+    "ssim_enhanced": 0.7631747126579285,
+    "ssim_gain": 0.023916959762573242,
+    "image": "100039.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.42908496453771,
+    "psnr_enhanced": 25.92050295283974,
+    "psnr_gain": 0.4914179883020289,
+    "ssim_compressed": 0.8386318683624268,
+    "ssim_enhanced": 0.8584335446357727,
+    "ssim_gain": 0.019801676273345947,
+    "image": "100039.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 26.851176351783725,
+    "psnr_enhanced": 27.403619136044817,
+    "psnr_gain": 0.5524427842610926,
+    "ssim_compressed": 0.8796412348747253,
+    "ssim_enhanced": 0.8965468406677246,
+    "ssim_gain": 0.016905605792999268,
+    "image": "100039.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 27.91733160812946,
+    "psnr_enhanced": 28.389247553296318,
+    "psnr_gain": 0.47191594516685953,
+    "ssim_compressed": 0.9022926688194275,
+    "ssim_enhanced": 0.9155235290527344,
+    "ssim_gain": 0.013230860233306885,
+    "image": "100039.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 28.831794047450046,
+    "psnr_enhanced": 29.20221616014176,
+    "psnr_gain": 0.3704221126917133,
+    "ssim_compressed": 0.9185437560081482,
+    "ssim_enhanced": 0.9291353225708008,
+    "ssim_gain": 0.010591566562652588,
+    "image": "100039.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 28.977664496708286,
+    "psnr_enhanced": 29.733295319800686,
+    "psnr_gain": 0.7556308230923996,
+    "ssim_compressed": 0.7703478932380676,
+    "ssim_enhanced": 0.8070223927497864,
+    "ssim_gain": 0.03667449951171875,
+    "image": "100099.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 31.84214973317518,
+    "psnr_enhanced": 32.45811422865887,
+    "psnr_gain": 0.6159644954836914,
+    "ssim_compressed": 0.8585216999053955,
+    "ssim_enhanced": 0.8869200348854065,
+    "ssim_gain": 0.028398334980010986,
+    "image": "100099.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 33.33743009489655,
+    "psnr_enhanced": 33.82089129921161,
+    "psnr_gain": 0.4834612043150628,
+    "ssim_compressed": 0.8930307030677795,
+    "ssim_enhanced": 0.9148325324058533,
+    "ssim_gain": 0.02180182933807373,
+    "image": "100099.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 34.35748353547148,
+    "psnr_enhanced": 34.73839244839044,
+    "psnr_gain": 0.38090891291896156,
+    "ssim_compressed": 0.9128639698028564,
+    "ssim_enhanced": 0.9293678402900696,
+    "ssim_gain": 0.016503870487213135,
+    "image": "100099.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.12364319686742,
+    "psnr_enhanced": 35.29246914622255,
+    "psnr_gain": 0.1688259493551314,
+    "ssim_compressed": 0.925986111164093,
+    "ssim_enhanced": 0.938521146774292,
+    "ssim_gain": 0.012535035610198975,
+    "image": "100099.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 28.031385102279025,
+    "psnr_enhanced": 28.64912212464031,
+    "psnr_gain": 0.6177370223612861,
+    "ssim_compressed": 0.8010150790214539,
+    "ssim_enhanced": 0.8276327252388,
+    "ssim_gain": 0.02661764621734619,
+    "image": "10081.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 30.809427121925594,
+    "psnr_enhanced": 31.652198288601028,
+    "psnr_gain": 0.8427711666754334,
+    "ssim_compressed": 0.8693572878837585,
+    "ssim_enhanced": 0.8934682011604309,
+    "ssim_gain": 0.024110913276672363,
+    "image": "10081.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 32.17624087687058,
+    "psnr_enhanced": 32.969906410627544,
+    "psnr_gain": 0.7936655337569647,
+    "ssim_compressed": 0.8969562649726868,
+    "ssim_enhanced": 0.915297269821167,
+    "ssim_gain": 0.018341004848480225,
+    "image": "10081.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 33.13924211568367,
+    "psnr_enhanced": 33.798341720855014,
+    "psnr_gain": 0.6590996051713418,
+    "ssim_compressed": 0.912550151348114,
+    "ssim_enhanced": 0.927223265171051,
+    "ssim_gain": 0.014673113822937012,
+    "image": "10081.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 33.84573490777954,
+    "psnr_enhanced": 34.388203070285506,
+    "psnr_gain": 0.5424681625059691,
+    "ssim_compressed": 0.9232279658317566,
+    "ssim_enhanced": 0.9345872402191162,
+    "ssim_gain": 0.01135927438735962,
+    "image": "10081.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.97539645620558,
+    "psnr_enhanced": 24.39574915692827,
+    "psnr_gain": 0.4203527007226917,
+    "ssim_compressed": 0.7012061476707458,
+    "ssim_enhanced": 0.7299434542655945,
+    "ssim_gain": 0.028737306594848633,
+    "image": "101027.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.981507383038004,
+    "psnr_enhanced": 26.550306402745434,
+    "psnr_gain": 0.5687990197074306,
+    "ssim_compressed": 0.8025128245353699,
+    "ssim_enhanced": 0.8206561207771301,
+    "ssim_gain": 0.018143296241760254,
+    "image": "101027.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.297648285605028,
+    "psnr_enhanced": 27.915476480120237,
+    "psnr_gain": 0.6178281945152087,
+    "ssim_compressed": 0.8472884297370911,
+    "ssim_enhanced": 0.8580722212791443,
+    "ssim_gain": 0.010783791542053223,
+    "image": "101027.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.323148076212593,
+    "psnr_enhanced": 28.88473491502374,
+    "psnr_gain": 0.5615868388111451,
+    "ssim_compressed": 0.8728309273719788,
+    "ssim_enhanced": 0.8770735859870911,
+    "ssim_gain": 0.004242658615112305,
+    "image": "101027.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.19911264320659,
+    "psnr_enhanced": 29.69567318523157,
+    "psnr_gain": 0.4965605420249801,
+    "ssim_compressed": 0.8905283808708191,
+    "ssim_enhanced": 0.8923470973968506,
+    "ssim_gain": 0.0018187165260314941,
+    "image": "101027.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 22.204459721294192,
+    "psnr_enhanced": 22.583114427967487,
+    "psnr_gain": 0.37865470667329504,
+    "ssim_compressed": 0.6513807773590088,
+    "ssim_enhanced": 0.6738271713256836,
+    "ssim_gain": 0.022446393966674805,
+    "image": "101084.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 24.152609214801576,
+    "psnr_enhanced": 24.560068516635706,
+    "psnr_gain": 0.40745930183413037,
+    "ssim_compressed": 0.7690956592559814,
+    "ssim_enhanced": 0.7882283329963684,
+    "ssim_gain": 0.019132673740386963,
+    "image": "101084.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 25.401724289432487,
+    "psnr_enhanced": 25.864777288000692,
+    "psnr_gain": 0.46305299856820525,
+    "ssim_compressed": 0.8240912556648254,
+    "ssim_enhanced": 0.8393861651420593,
+    "ssim_gain": 0.015294909477233887,
+    "image": "101084.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 26.391912085839696,
+    "psnr_enhanced": 26.778850727633618,
+    "psnr_gain": 0.3869386417939218,
+    "ssim_compressed": 0.8570688366889954,
+    "ssim_enhanced": 0.8682921528816223,
+    "ssim_gain": 0.011223316192626953,
+    "image": "101084.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 27.254069362052526,
+    "psnr_enhanced": 27.54805459919572,
+    "psnr_gain": 0.29398523714319325,
+    "ssim_compressed": 0.8812693953514099,
+    "ssim_enhanced": 0.8892051577568054,
+    "ssim_gain": 0.007935762405395508,
+    "image": "101084.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 21.98289150048971,
+    "psnr_enhanced": 22.448226101315377,
+    "psnr_gain": 0.4653346008256669,
+    "ssim_compressed": 0.6848242878913879,
+    "ssim_enhanced": 0.7096166610717773,
+    "ssim_gain": 0.024792373180389404,
+    "image": "102062.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 23.94799235538084,
+    "psnr_enhanced": 24.605584710101688,
+    "psnr_gain": 0.6575923547208475,
+    "ssim_compressed": 0.789844810962677,
+    "ssim_enhanced": 0.815371036529541,
+    "ssim_gain": 0.025526225566864014,
+    "image": "102062.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 25.23079772738404,
+    "psnr_enhanced": 25.997810103455244,
+    "psnr_gain": 0.7670123760712038,
+    "ssim_compressed": 0.8373622894287109,
+    "ssim_enhanced": 0.8611698746681213,
+    "ssim_gain": 0.0238075852394104,
+    "image": "102062.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 26.203931907420973,
+    "psnr_enhanced": 26.957978157507966,
+    "psnr_gain": 0.7540462500869936,
+    "ssim_compressed": 0.8651412129402161,
+    "ssim_enhanced": 0.8857317566871643,
+    "ssim_gain": 0.020590543746948242,
+    "image": "102062.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 27.05882233867749,
+    "psnr_enhanced": 27.774586337859922,
+    "psnr_gain": 0.7157639991824318,
+    "ssim_compressed": 0.8852854371070862,
+    "ssim_enhanced": 0.9032299518585205,
+    "ssim_gain": 0.017944514751434326,
+    "image": "102062.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.145678365216877,
+    "psnr_enhanced": 24.684228734011,
+    "psnr_gain": 0.5385503687941231,
+    "ssim_compressed": 0.7625327110290527,
+    "ssim_enhanced": 0.7910590171813965,
+    "ssim_gain": 0.02852630615234375,
+    "image": "103006.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.335519156462862,
+    "psnr_enhanced": 27.031460802994886,
+    "psnr_gain": 0.6959416465320238,
+    "ssim_compressed": 0.8463468551635742,
+    "ssim_enhanced": 0.8728283047676086,
+    "ssim_gain": 0.026481449604034424,
+    "image": "103006.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.63228556230458,
+    "psnr_enhanced": 28.391169078495444,
+    "psnr_gain": 0.7588835161908634,
+    "ssim_compressed": 0.881870448589325,
+    "ssim_enhanced": 0.9048388600349426,
+    "ssim_gain": 0.022968411445617676,
+    "image": "103006.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.580716844533796,
+    "psnr_enhanced": 29.310514708899873,
+    "psnr_gain": 0.729797864366077,
+    "ssim_compressed": 0.9016503691673279,
+    "ssim_enhanced": 0.9210641980171204,
+    "ssim_gain": 0.01941382884979248,
+    "image": "103006.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.406714472392608,
+    "psnr_enhanced": 30.065399349227526,
+    "psnr_gain": 0.6586848768349185,
+    "ssim_compressed": 0.9158105850219727,
+    "ssim_enhanced": 0.9322986602783203,
+    "ssim_gain": 0.016488075256347656,
+    "image": "103006.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 29.35352199983441,
+    "psnr_enhanced": 30.073019650537567,
+    "psnr_gain": 0.7194976507031576,
+    "ssim_compressed": 0.7746631503105164,
+    "ssim_enhanced": 0.8117454648017883,
+    "ssim_gain": 0.03708231449127197,
+    "image": "103029.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 32.53443681767438,
+    "psnr_enhanced": 33.32945228799487,
+    "psnr_gain": 0.7950154703204859,
+    "ssim_compressed": 0.8669672608375549,
+    "ssim_enhanced": 0.8950956463813782,
+    "ssim_gain": 0.028128385543823242,
+    "image": "103029.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 34.04352141816106,
+    "psnr_enhanced": 34.77200029327912,
+    "psnr_gain": 0.7284788751180571,
+    "ssim_compressed": 0.8997043967247009,
+    "ssim_enhanced": 0.9216606616973877,
+    "ssim_gain": 0.021956264972686768,
+    "image": "103029.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 35.05861136358272,
+    "psnr_enhanced": 35.65783783729882,
+    "psnr_gain": 0.5992264737161008,
+    "ssim_compressed": 0.9171514511108398,
+    "ssim_enhanced": 0.934796154499054,
+    "ssim_gain": 0.01764470338821411,
+    "image": "103029.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.838461912565755,
+    "psnr_enhanced": 36.33895084127683,
+    "psnr_gain": 0.5004889287110714,
+    "ssim_compressed": 0.9290779232978821,
+    "ssim_enhanced": 0.9430133700370789,
+    "ssim_gain": 0.013935446739196777,
+    "image": "103029.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.727398940708206,
+    "psnr_enhanced": 26.22535681142072,
+    "psnr_gain": 0.49795787071251496,
+    "ssim_compressed": 0.7433328628540039,
+    "ssim_enhanced": 0.7723233699798584,
+    "ssim_gain": 0.028990507125854492,
+    "image": "103078.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.905584157865345,
+    "psnr_enhanced": 28.553284268629227,
+    "psnr_gain": 0.647700110763882,
+    "ssim_compressed": 0.8347435593605042,
+    "ssim_enhanced": 0.8605175018310547,
+    "ssim_gain": 0.025773942470550537,
+    "image": "103078.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.208802684923107,
+    "psnr_enhanced": 29.878447040240445,
+    "psnr_gain": 0.6696443553173381,
+    "ssim_compressed": 0.8729386925697327,
+    "ssim_enhanced": 0.894781768321991,
+    "ssim_gain": 0.0218430757522583,
+    "image": "103078.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.121948123645122,
+    "psnr_enhanced": 30.784664346685826,
+    "psnr_gain": 0.6627162230407038,
+    "ssim_compressed": 0.8946171402931213,
+    "ssim_enhanced": 0.9126797318458557,
+    "ssim_gain": 0.018062591552734375,
+    "image": "103078.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.883334969599918,
+    "psnr_enhanced": 31.494671493004844,
+    "psnr_gain": 0.6113365234049262,
+    "ssim_compressed": 0.9093974232673645,
+    "ssim_enhanced": 0.9244253039360046,
+    "ssim_gain": 0.015027880668640137,
+    "image": "103078.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.652690119786467,
+    "psnr_enhanced": 26.214077812406515,
+    "psnr_gain": 0.5613876926200483,
+    "ssim_compressed": 0.6989591121673584,
+    "ssim_enhanced": 0.7262087464332581,
+    "ssim_gain": 0.027249634265899658,
+    "image": "104010.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.931907443311918,
+    "psnr_enhanced": 28.578274586159303,
+    "psnr_gain": 0.6463671428473852,
+    "ssim_compressed": 0.7992110848426819,
+    "ssim_enhanced": 0.8222851753234863,
+    "ssim_gain": 0.023074090480804443,
+    "image": "104010.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.269680084727238,
+    "psnr_enhanced": 29.84564415458223,
+    "psnr_gain": 0.5759640698549937,
+    "ssim_compressed": 0.8436015248298645,
+    "ssim_enhanced": 0.8610239028930664,
+    "ssim_gain": 0.017422378063201904,
+    "image": "104010.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.131833549359605,
+    "psnr_enhanced": 30.597601772560257,
+    "psnr_gain": 0.4657682232006515,
+    "ssim_compressed": 0.8675280213356018,
+    "ssim_enhanced": 0.880561113357544,
+    "ssim_gain": 0.013033092021942139,
+    "image": "104010.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.85291225762381,
+    "psnr_enhanced": 31.19663499672002,
+    "psnr_gain": 0.3437227390962114,
+    "ssim_compressed": 0.8855568766593933,
+    "ssim_enhanced": 0.895665168762207,
+    "ssim_gain": 0.01010829210281372,
+    "image": "104010.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 28.250763115261147,
+    "psnr_enhanced": 28.909699125080866,
+    "psnr_gain": 0.658936009819719,
+    "ssim_compressed": 0.7304043769836426,
+    "ssim_enhanced": 0.7615429759025574,
+    "ssim_gain": 0.031138598918914795,
+    "image": "104055.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 30.879121633383185,
+    "psnr_enhanced": 31.723839345014593,
+    "psnr_gain": 0.8447177116314073,
+    "ssim_compressed": 0.821315586566925,
+    "ssim_enhanced": 0.8474480509757996,
+    "ssim_gain": 0.02613246440887451,
+    "image": "104055.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 32.419772877653934,
+    "psnr_enhanced": 33.171405160101216,
+    "psnr_gain": 0.7516322824472823,
+    "ssim_compressed": 0.8631629943847656,
+    "ssim_enhanced": 0.8824539184570312,
+    "ssim_gain": 0.019290924072265625,
+    "image": "104055.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 33.39121843103611,
+    "psnr_enhanced": 34.00658069475385,
+    "psnr_gain": 0.615362263717742,
+    "ssim_compressed": 0.8851367831230164,
+    "ssim_enhanced": 0.8994545936584473,
+    "ssim_gain": 0.014317810535430908,
+    "image": "104055.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 34.137891551173006,
+    "psnr_enhanced": 34.641538461600774,
+    "psnr_gain": 0.5036469104277685,
+    "ssim_compressed": 0.9012338519096375,
+    "ssim_enhanced": 0.9109468460083008,
+    "ssim_gain": 0.00971299409866333,
+    "image": "104055.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.874805774036012,
+    "psnr_enhanced": 27.298800302750937,
+    "psnr_gain": 0.4239945287149247,
+    "ssim_compressed": 0.7164487242698669,
+    "ssim_enhanced": 0.7436223030090332,
+    "ssim_gain": 0.02717357873916626,
+    "image": "105027.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 29.180982845757857,
+    "psnr_enhanced": 29.758917426831598,
+    "psnr_gain": 0.5779345810737411,
+    "ssim_compressed": 0.8228722214698792,
+    "ssim_enhanced": 0.8469610810279846,
+    "ssim_gain": 0.02408885955810547,
+    "image": "105027.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.465154049318453,
+    "psnr_enhanced": 31.044098059820698,
+    "psnr_gain": 0.5789440105022443,
+    "ssim_compressed": 0.8662302494049072,
+    "ssim_enhanced": 0.885171115398407,
+    "ssim_gain": 0.018940865993499756,
+    "image": "105027.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.330280324527386,
+    "psnr_enhanced": 31.922937168137825,
+    "psnr_gain": 0.5926568436104382,
+    "ssim_compressed": 0.8890487551689148,
+    "ssim_enhanced": 0.9050511717796326,
+    "ssim_gain": 0.016002416610717773,
+    "image": "105027.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 32.084300798891626,
+    "psnr_enhanced": 32.592361854014136,
+    "psnr_gain": 0.5080610551225107,
+    "ssim_compressed": 0.905127227306366,
+    "ssim_enhanced": 0.9185970425605774,
+    "ssim_gain": 0.013469815254211426,
+    "image": "105027.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 29.64988616276287,
+    "psnr_enhanced": 30.3471289190044,
+    "psnr_gain": 0.6972427562415326,
+    "ssim_compressed": 0.8263217806816101,
+    "ssim_enhanced": 0.8643034100532532,
+    "ssim_gain": 0.037981629371643066,
+    "image": "106005.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 32.95064968419305,
+    "psnr_enhanced": 33.85970554072515,
+    "psnr_gain": 0.909055856532099,
+    "ssim_compressed": 0.9024290442466736,
+    "ssim_enhanced": 0.9288790225982666,
+    "ssim_gain": 0.026449978351593018,
+    "image": "106005.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 34.35909259811824,
+    "psnr_enhanced": 35.23393162975357,
+    "psnr_gain": 0.8748390316353323,
+    "ssim_compressed": 0.926403284072876,
+    "ssim_enhanced": 0.9472238421440125,
+    "ssim_gain": 0.020820558071136475,
+    "image": "106005.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 35.494750818531564,
+    "psnr_enhanced": 36.263443740898836,
+    "psnr_gain": 0.768692922367272,
+    "ssim_compressed": 0.9406404495239258,
+    "ssim_enhanced": 0.9562263488769531,
+    "ssim_gain": 0.015585899353027344,
+    "image": "106005.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 36.29953813383504,
+    "psnr_enhanced": 36.92330024755145,
+    "psnr_gain": 0.6237621137164098,
+    "ssim_compressed": 0.9496814608573914,
+    "ssim_enhanced": 0.9617720246315002,
+    "ssim_gain": 0.012090563774108887,
+    "image": "106005.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 28.639888280115258,
+    "psnr_enhanced": 29.314899357789347,
+    "psnr_gain": 0.675011077674089,
+    "ssim_compressed": 0.8131484389305115,
+    "ssim_enhanced": 0.8478320240974426,
+    "ssim_gain": 0.03468358516693115,
+    "image": "106047.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 31.772591057053322,
+    "psnr_enhanced": 32.64541411961176,
+    "psnr_gain": 0.8728230625584352,
+    "ssim_compressed": 0.8949894905090332,
+    "ssim_enhanced": 0.9209609031677246,
+    "ssim_gain": 0.025971412658691406,
+    "image": "106047.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 33.24908418867408,
+    "psnr_enhanced": 34.10607024034521,
+    "psnr_gain": 0.8569860516711287,
+    "ssim_compressed": 0.9231576919555664,
+    "ssim_enhanced": 0.9430426955223083,
+    "ssim_gain": 0.019885003566741943,
+    "image": "106047.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 34.332478433735446,
+    "psnr_enhanced": 35.13024981426947,
+    "psnr_gain": 0.797771380534023,
+    "ssim_compressed": 0.9376165866851807,
+    "ssim_enhanced": 0.9530656933784485,
+    "ssim_gain": 0.015449106693267822,
+    "image": "106047.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.15136378763576,
+    "psnr_enhanced": 35.84792792496934,
+    "psnr_gain": 0.6965641373335814,
+    "ssim_compressed": 0.946910560131073,
+    "ssim_enhanced": 0.9592326283454895,
+    "ssim_gain": 0.012322068214416504,
+    "image": "106047.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.59076149473007,
+    "psnr_enhanced": 27.0544811735331,
+    "psnr_gain": 0.4637196788030309,
+    "ssim_compressed": 0.6900420188903809,
+    "ssim_enhanced": 0.7193689346313477,
+    "ssim_gain": 0.029326915740966797,
+    "image": "107014.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.813466338124172,
+    "psnr_enhanced": 29.384038939229097,
+    "psnr_gain": 0.5705726011049244,
+    "ssim_compressed": 0.7950227856636047,
+    "ssim_enhanced": 0.8214741349220276,
+    "ssim_gain": 0.02645134925842285,
+    "image": "107014.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.068621771656538,
+    "psnr_enhanced": 30.566223999983503,
+    "psnr_gain": 0.497602228326965,
+    "ssim_compressed": 0.8404032588005066,
+    "ssim_enhanced": 0.8619806170463562,
+    "ssim_gain": 0.02157735824584961,
+    "image": "107014.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.96463181554042,
+    "psnr_enhanced": 31.457437086437995,
+    "psnr_gain": 0.4928052708975734,
+    "ssim_compressed": 0.8663783073425293,
+    "ssim_enhanced": 0.8845599293708801,
+    "ssim_gain": 0.01818162202835083,
+    "image": "107014.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.707105180214704,
+    "psnr_enhanced": 32.12976254636039,
+    "psnr_gain": 0.4226573661456854,
+    "ssim_compressed": 0.8850514888763428,
+    "ssim_enhanced": 0.8997461199760437,
+    "ssim_gain": 0.014694631099700928,
+    "image": "107014.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.75643958847391,
+    "psnr_enhanced": 25.193879540211203,
+    "psnr_gain": 0.4374399517372929,
+    "ssim_compressed": 0.7278982996940613,
+    "ssim_enhanced": 0.7521390318870544,
+    "ssim_gain": 0.024240732192993164,
+    "image": "107045.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.91848099774965,
+    "psnr_enhanced": 27.498656974217294,
+    "psnr_gain": 0.5801759764676433,
+    "ssim_compressed": 0.8222082257270813,
+    "ssim_enhanced": 0.8436433672904968,
+    "ssim_gain": 0.021435141563415527,
+    "image": "107045.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.175658039733523,
+    "psnr_enhanced": 28.80875580353388,
+    "psnr_gain": 0.6330977638003574,
+    "ssim_compressed": 0.8627853393554688,
+    "ssim_enhanced": 0.8801087737083435,
+    "ssim_gain": 0.017323434352874756,
+    "image": "107045.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.06625455264489,
+    "psnr_enhanced": 29.67061021390769,
+    "psnr_gain": 0.6043556612628009,
+    "ssim_compressed": 0.8844799995422363,
+    "ssim_enhanced": 0.8987584114074707,
+    "ssim_gain": 0.014278411865234375,
+    "image": "107045.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.828137624894975,
+    "psnr_enhanced": 30.402742022385333,
+    "psnr_gain": 0.5746043974903579,
+    "ssim_compressed": 0.9009661674499512,
+    "ssim_enhanced": 0.9125731587409973,
+    "ssim_gain": 0.011606991291046143,
+    "image": "107045.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.90187244865879,
+    "psnr_enhanced": 25.335870265062532,
+    "psnr_gain": 0.4339978164037426,
+    "ssim_compressed": 0.6685142517089844,
+    "ssim_enhanced": 0.6915673613548279,
+    "ssim_gain": 0.023053109645843506,
+    "image": "107072.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.040630278160798,
+    "psnr_enhanced": 27.594804836682172,
+    "psnr_gain": 0.5541745585213746,
+    "ssim_compressed": 0.7804508209228516,
+    "ssim_enhanced": 0.8012096881866455,
+    "ssim_gain": 0.020758867263793945,
+    "image": "107072.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.25333880162063,
+    "psnr_enhanced": 28.821445810167276,
+    "psnr_gain": 0.5681070085466473,
+    "ssim_compressed": 0.8286169171333313,
+    "ssim_enhanced": 0.8456071019172668,
+    "ssim_gain": 0.016990184783935547,
+    "image": "107072.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.107605114315046,
+    "psnr_enhanced": 29.652372208947142,
+    "psnr_gain": 0.5447670946320962,
+    "ssim_compressed": 0.8550894856452942,
+    "ssim_enhanced": 0.8691250681877136,
+    "ssim_gain": 0.014035582542419434,
+    "image": "107072.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.835605038535952,
+    "psnr_enhanced": 30.347505317674223,
+    "psnr_gain": 0.5119002791382705,
+    "ssim_compressed": 0.8745708465576172,
+    "ssim_enhanced": 0.885707676410675,
+    "ssim_gain": 0.011136829853057861,
+    "image": "107072.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.05192605956572,
+    "psnr_enhanced": 23.412097117238723,
+    "psnr_gain": 0.3601710576730035,
+    "ssim_compressed": 0.6100539565086365,
+    "ssim_enhanced": 0.6273085474967957,
+    "ssim_gain": 0.01725459098815918,
+    "image": "108004.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 24.904949436997796,
+    "psnr_enhanced": 25.382993227155055,
+    "psnr_gain": 0.4780437901572583,
+    "ssim_compressed": 0.7472668290138245,
+    "ssim_enhanced": 0.7649807929992676,
+    "ssim_gain": 0.017713963985443115,
+    "image": "108004.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 26.057988638235628,
+    "psnr_enhanced": 26.587928679062074,
+    "psnr_gain": 0.5299400408264461,
+    "ssim_compressed": 0.8032806515693665,
+    "ssim_enhanced": 0.8188145756721497,
+    "ssim_gain": 0.015533924102783203,
+    "image": "108004.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 26.917937223639644,
+    "psnr_enhanced": 27.463244516439843,
+    "psnr_gain": 0.5453072928001994,
+    "ssim_compressed": 0.8376244902610779,
+    "ssim_enhanced": 0.8513317704200745,
+    "ssim_gain": 0.013707280158996582,
+    "image": "108004.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 27.66821980983928,
+    "psnr_enhanced": 28.207013324841373,
+    "psnr_gain": 0.5387935150020944,
+    "ssim_compressed": 0.8641217350959778,
+    "ssim_enhanced": 0.8758599162101746,
+    "ssim_gain": 0.011738181114196777,
+    "image": "108004.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.252166252726376,
+    "psnr_enhanced": 24.852222653260498,
+    "psnr_gain": 0.6000564005341218,
+    "ssim_compressed": 0.7475340962409973,
+    "ssim_enhanced": 0.7731468677520752,
+    "ssim_gain": 0.02561277151107788,
+    "image": "108036.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.56152111588241,
+    "psnr_enhanced": 27.416922509409044,
+    "psnr_gain": 0.855401393526634,
+    "ssim_compressed": 0.8413035869598389,
+    "ssim_enhanced": 0.8661024570465088,
+    "ssim_gain": 0.024798870086669922,
+    "image": "108036.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.890455820993157,
+    "psnr_enhanced": 28.820839004529518,
+    "psnr_gain": 0.9303831835363603,
+    "ssim_compressed": 0.8791799545288086,
+    "ssim_enhanced": 0.9007800221443176,
+    "ssim_gain": 0.021600067615509033,
+    "image": "108036.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.927002265235902,
+    "psnr_enhanced": 29.824313920467972,
+    "psnr_gain": 0.8973116552320697,
+    "ssim_compressed": 0.9003344178199768,
+    "ssim_enhanced": 0.9185411334037781,
+    "ssim_gain": 0.01820671558380127,
+    "image": "108036.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.793627181497826,
+    "psnr_enhanced": 30.596258810948118,
+    "psnr_gain": 0.8026316294502926,
+    "ssim_compressed": 0.9148556590080261,
+    "ssim_enhanced": 0.9302062392234802,
+    "ssim_gain": 0.015350580215454102,
+    "image": "108036.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.10761534680901,
+    "psnr_enhanced": 25.8344471834039,
+    "psnr_gain": 0.72683183659489,
+    "ssim_compressed": 0.7940082550048828,
+    "ssim_enhanced": 0.8216966986656189,
+    "ssim_gain": 0.027688443660736084,
+    "image": "108069.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.482752198384492,
+    "psnr_enhanced": 28.5249862731993,
+    "psnr_gain": 1.0422340748148073,
+    "ssim_compressed": 0.8712677955627441,
+    "ssim_enhanced": 0.8969979286193848,
+    "ssim_gain": 0.025730133056640625,
+    "image": "108069.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.858739168144577,
+    "psnr_enhanced": 29.969223082220708,
+    "psnr_gain": 1.1104839140761307,
+    "ssim_compressed": 0.9029073119163513,
+    "ssim_enhanced": 0.9252371191978455,
+    "ssim_gain": 0.02232980728149414,
+    "image": "108069.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.827713469486838,
+    "psnr_enhanced": 30.904846532463225,
+    "psnr_gain": 1.0771330629763867,
+    "ssim_compressed": 0.9195039868354797,
+    "ssim_enhanced": 0.9386448860168457,
+    "ssim_gain": 0.019140899181365967,
+    "image": "108069.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.646943693639173,
+    "psnr_enhanced": 31.61603329083973,
+    "psnr_gain": 0.9690895972005578,
+    "ssim_compressed": 0.93133145570755,
+    "ssim_enhanced": 0.9473857879638672,
+    "ssim_gain": 0.01605433225631714,
+    "image": "108069.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.941718403816907,
+    "psnr_enhanced": 25.66768811480106,
+    "psnr_gain": 0.7259697109841525,
+    "ssim_compressed": 0.7836081385612488,
+    "ssim_enhanced": 0.8197212219238281,
+    "ssim_gain": 0.036113083362579346,
+    "image": "109055.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.353997838271816,
+    "psnr_enhanced": 28.364610538885692,
+    "psnr_gain": 1.0106127006138763,
+    "ssim_compressed": 0.8651244044303894,
+    "ssim_enhanced": 0.8959636092185974,
+    "ssim_gain": 0.030839204788208008,
+    "image": "109055.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.7589333018736,
+    "psnr_enhanced": 29.8640068633137,
+    "psnr_gain": 1.1050735614401006,
+    "ssim_compressed": 0.8970975875854492,
+    "ssim_enhanced": 0.9226565957069397,
+    "ssim_gain": 0.02555900812149048,
+    "image": "109055.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.790008745062032,
+    "psnr_enhanced": 30.874725549289735,
+    "psnr_gain": 1.0847168042277033,
+    "ssim_compressed": 0.9151995182037354,
+    "ssim_enhanced": 0.9364168047904968,
+    "ssim_gain": 0.021217286586761475,
+    "image": "109055.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.625221228698955,
+    "psnr_enhanced": 31.657201931516646,
+    "psnr_gain": 1.031980702817691,
+    "ssim_compressed": 0.9276031851768494,
+    "ssim_enhanced": 0.945207417011261,
+    "ssim_gain": 0.01760423183441162,
+    "image": "109055.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 29.610125807466176,
+    "psnr_enhanced": 30.337940861137533,
+    "psnr_gain": 0.7278150536713568,
+    "ssim_compressed": 0.7593958973884583,
+    "ssim_enhanced": 0.7975894808769226,
+    "ssim_gain": 0.038193583488464355,
+    "image": "112056.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 32.75890067278222,
+    "psnr_enhanced": 33.40989984705535,
+    "psnr_gain": 0.6509991742731316,
+    "ssim_compressed": 0.851497232913971,
+    "ssim_enhanced": 0.8792411684989929,
+    "ssim_gain": 0.027743935585021973,
+    "image": "112056.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 34.15008951037338,
+    "psnr_enhanced": 34.67911684542433,
+    "psnr_gain": 0.5290273350509551,
+    "ssim_compressed": 0.8857524991035461,
+    "ssim_enhanced": 0.9080259799957275,
+    "ssim_gain": 0.022273480892181396,
+    "image": "112056.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 35.08556092076126,
+    "psnr_enhanced": 35.56180961150777,
+    "psnr_gain": 0.4762486907465089,
+    "ssim_compressed": 0.9044921398162842,
+    "ssim_enhanced": 0.9223983287811279,
+    "ssim_gain": 0.01790618896484375,
+    "image": "112056.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.803507741585875,
+    "psnr_enhanced": 36.171476159703985,
+    "psnr_gain": 0.3679684181181102,
+    "ssim_compressed": 0.9179584383964539,
+    "ssim_enhanced": 0.9322867393493652,
+    "ssim_gain": 0.014328300952911377,
+    "image": "112056.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.609266067255195,
+    "psnr_enhanced": 25.99568377907929,
+    "psnr_gain": 0.38641771182409457,
+    "ssim_compressed": 0.6967775821685791,
+    "ssim_enhanced": 0.7199733257293701,
+    "ssim_gain": 0.023195743560791016,
+    "image": "112090.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.734249325267072,
+    "psnr_enhanced": 28.269032490797578,
+    "psnr_gain": 0.5347831655305058,
+    "ssim_compressed": 0.8001435399055481,
+    "ssim_enhanced": 0.8218730092048645,
+    "ssim_gain": 0.021729469299316406,
+    "image": "112090.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.957621230441312,
+    "psnr_enhanced": 29.446222056553516,
+    "psnr_gain": 0.48860082611220435,
+    "ssim_compressed": 0.8463291525840759,
+    "ssim_enhanced": 0.8634482026100159,
+    "ssim_gain": 0.01711905002593994,
+    "image": "112090.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.83305703177532,
+    "psnr_enhanced": 30.322031915029267,
+    "psnr_gain": 0.4889748832539489,
+    "ssim_compressed": 0.8718392252922058,
+    "ssim_enhanced": 0.8860895037651062,
+    "ssim_gain": 0.01425027847290039,
+    "image": "112090.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.54314275751458,
+    "psnr_enhanced": 30.959938549266045,
+    "psnr_gain": 0.41679579175146486,
+    "ssim_compressed": 0.8896535038948059,
+    "ssim_enhanced": 0.9011001586914062,
+    "ssim_gain": 0.011446654796600342,
+    "image": "112090.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.00534988127653,
+    "psnr_enhanced": 25.380153069285743,
+    "psnr_gain": 0.37480318800921353,
+    "ssim_compressed": 0.6978409886360168,
+    "ssim_enhanced": 0.7176969051361084,
+    "ssim_gain": 0.019855916500091553,
+    "image": "117025.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.02487694619416,
+    "psnr_enhanced": 27.467485196474062,
+    "psnr_gain": 0.44260825027990336,
+    "ssim_compressed": 0.7947881817817688,
+    "ssim_enhanced": 0.8129913210868835,
+    "ssim_gain": 0.018203139305114746,
+    "image": "117025.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.1319007269963,
+    "psnr_enhanced": 28.509536767141405,
+    "psnr_gain": 0.37763604014510577,
+    "ssim_compressed": 0.8375938534736633,
+    "ssim_enhanced": 0.8523423075675964,
+    "ssim_gain": 0.014748454093933105,
+    "image": "117025.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.982125864459732,
+    "psnr_enhanced": 29.382595491933976,
+    "psnr_gain": 0.4004696274742443,
+    "ssim_compressed": 0.8629508018493652,
+    "ssim_enhanced": 0.875270664691925,
+    "ssim_gain": 0.012319862842559814,
+    "image": "117025.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.68504627310171,
+    "psnr_enhanced": 30.0772852929291,
+    "psnr_gain": 0.3922390198273895,
+    "ssim_compressed": 0.8811810612678528,
+    "ssim_enhanced": 0.89128178358078,
+    "ssim_gain": 0.010100722312927246,
+    "image": "117025.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.912853071108113,
+    "psnr_enhanced": 24.517042842101322,
+    "psnr_gain": 0.6041897709932087,
+    "ssim_compressed": 0.7562130093574524,
+    "ssim_enhanced": 0.7909862399101257,
+    "ssim_gain": 0.03477323055267334,
+    "image": "118015.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.067613501788863,
+    "psnr_enhanced": 26.793618378966183,
+    "psnr_gain": 0.7260048771773207,
+    "ssim_compressed": 0.8365969657897949,
+    "ssim_enhanced": 0.8670287728309631,
+    "ssim_gain": 0.030431807041168213,
+    "image": "118015.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.409626468033487,
+    "psnr_enhanced": 28.15425422329417,
+    "psnr_gain": 0.7446277552606837,
+    "ssim_compressed": 0.8734758496284485,
+    "ssim_enhanced": 0.8973223567008972,
+    "ssim_gain": 0.02384650707244873,
+    "image": "118015.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.423182000055135,
+    "psnr_enhanced": 29.06526052027227,
+    "psnr_gain": 0.6420785202171331,
+    "ssim_compressed": 0.8945755958557129,
+    "ssim_enhanced": 0.9136035442352295,
+    "ssim_gain": 0.0190279483795166,
+    "image": "118015.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.2718910572246,
+    "psnr_enhanced": 29.772551240474158,
+    "psnr_gain": 0.5006601832495576,
+    "ssim_compressed": 0.9094664454460144,
+    "ssim_enhanced": 0.9242449402809143,
+    "ssim_gain": 0.014778494834899902,
+    "image": "118015.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.44762929235636,
+    "psnr_enhanced": 24.9341087347166,
+    "psnr_gain": 0.4864794423602383,
+    "ssim_compressed": 0.7213611602783203,
+    "ssim_enhanced": 0.7511393427848816,
+    "ssim_gain": 0.02977818250656128,
+    "image": "118031.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.49289951584441,
+    "psnr_enhanced": 27.17104668511351,
+    "psnr_gain": 0.6781471692690992,
+    "ssim_compressed": 0.8092487454414368,
+    "ssim_enhanced": 0.8388848304748535,
+    "ssim_gain": 0.029636085033416748,
+    "image": "118031.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.702018060938535,
+    "psnr_enhanced": 28.42428987405583,
+    "psnr_gain": 0.7222718131172954,
+    "ssim_compressed": 0.8478555083274841,
+    "ssim_enhanced": 0.8739134669303894,
+    "ssim_gain": 0.026057958602905273,
+    "image": "118031.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.584890569969915,
+    "psnr_enhanced": 29.304998739888603,
+    "psnr_gain": 0.7201081699186886,
+    "ssim_compressed": 0.8720798492431641,
+    "ssim_enhanced": 0.894697904586792,
+    "ssim_gain": 0.02261805534362793,
+    "image": "118031.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.37405631996839,
+    "psnr_enhanced": 30.08447794749056,
+    "psnr_gain": 0.7104216275221695,
+    "ssim_compressed": 0.8899831771850586,
+    "ssim_enhanced": 0.9089400768280029,
+    "ssim_gain": 0.018956899642944336,
+    "image": "118031.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.680390465332042,
+    "psnr_enhanced": 26.12130464698598,
+    "psnr_gain": 0.4409141816539375,
+    "ssim_compressed": 0.6768624186515808,
+    "ssim_enhanced": 0.7039392590522766,
+    "ssim_gain": 0.0270768404006958,
+    "image": "118072.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.480749843926574,
+    "psnr_enhanced": 28.03800644210562,
+    "psnr_gain": 0.5572565981790447,
+    "ssim_compressed": 0.7702870965003967,
+    "ssim_enhanced": 0.7949450016021729,
+    "ssim_gain": 0.024657905101776123,
+    "image": "118072.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.568020756182996,
+    "psnr_enhanced": 29.09368788370596,
+    "psnr_gain": 0.525667127522965,
+    "ssim_compressed": 0.8149826526641846,
+    "ssim_enhanced": 0.8359575271606445,
+    "ssim_gain": 0.02097487449645996,
+    "image": "118072.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.344932585558674,
+    "psnr_enhanced": 29.865473096375176,
+    "psnr_gain": 0.5205405108165024,
+    "ssim_compressed": 0.8410394787788391,
+    "ssim_enhanced": 0.8590245246887207,
+    "ssim_gain": 0.017985045909881592,
+    "image": "118072.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.010388597296014,
+    "psnr_enhanced": 30.490727711011417,
+    "psnr_gain": 0.4803391137154023,
+    "ssim_compressed": 0.8617622256278992,
+    "ssim_enhanced": 0.8764879703521729,
+    "ssim_gain": 0.014725744724273682,
+    "image": "118072.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 28.607754172776406,
+    "psnr_enhanced": 29.36157123371336,
+    "psnr_gain": 0.753817060936953,
+    "ssim_compressed": 0.8278713226318359,
+    "ssim_enhanced": 0.856022834777832,
+    "ssim_gain": 0.028151512145996094,
+    "image": "120003.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 31.502397126871884,
+    "psnr_enhanced": 32.106280069885564,
+    "psnr_gain": 0.6038829430136801,
+    "ssim_compressed": 0.8873172402381897,
+    "ssim_enhanced": 0.9153110980987549,
+    "ssim_gain": 0.027993857860565186,
+    "image": "120003.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 33.047697108921604,
+    "psnr_enhanced": 33.441397963985786,
+    "psnr_gain": 0.39370085506418206,
+    "ssim_compressed": 0.914071261882782,
+    "ssim_enhanced": 0.936329185962677,
+    "ssim_gain": 0.02225792407989502,
+    "image": "120003.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 34.16472597874108,
+    "psnr_enhanced": 34.31161357575292,
+    "psnr_gain": 0.1468875970118404,
+    "ssim_compressed": 0.9287474155426025,
+    "ssim_enhanced": 0.9470364451408386,
+    "ssim_gain": 0.018289029598236084,
+    "image": "120003.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 35.06088496973316,
+    "psnr_enhanced": 34.89955240430999,
+    "psnr_gain": -0.16133256542316587,
+    "ssim_compressed": 0.9393656253814697,
+    "ssim_enhanced": 0.9537172317504883,
+    "ssim_gain": 0.014351606369018555,
+    "image": "120003.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.50883255205201,
+    "psnr_enhanced": 24.157005329928374,
+    "psnr_gain": 0.6481727778763648,
+    "ssim_compressed": 0.8054545521736145,
+    "ssim_enhanced": 0.8355922698974609,
+    "ssim_gain": 0.030137717723846436,
+    "image": "120093.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.797987951590102,
+    "psnr_enhanced": 26.65325800577747,
+    "psnr_gain": 0.8552700541873683,
+    "ssim_compressed": 0.8676283955574036,
+    "ssim_enhanced": 0.8979707360267639,
+    "ssim_gain": 0.03034234046936035,
+    "image": "120093.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.26670066115534,
+    "psnr_enhanced": 28.137903076158754,
+    "psnr_gain": 0.8712024150034132,
+    "ssim_compressed": 0.8956943154335022,
+    "ssim_enhanced": 0.9220318794250488,
+    "ssim_gain": 0.02633756399154663,
+    "image": "120093.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.34967882830796,
+    "psnr_enhanced": 29.140226751232316,
+    "psnr_gain": 0.7905479229243539,
+    "ssim_compressed": 0.9112853407859802,
+    "ssim_enhanced": 0.9350252747535706,
+    "ssim_gain": 0.023739933967590332,
+    "image": "120093.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.25208238315662,
+    "psnr_enhanced": 29.85421710584641,
+    "psnr_gain": 0.6021347226897902,
+    "ssim_compressed": 0.9233049750328064,
+    "ssim_enhanced": 0.9434658885002136,
+    "ssim_gain": 0.020160913467407227,
+    "image": "120093.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 27.323880291687274,
+    "psnr_enhanced": 27.843939717172198,
+    "psnr_gain": 0.5200594254849236,
+    "ssim_compressed": 0.7497294545173645,
+    "ssim_enhanced": 0.7846593856811523,
+    "ssim_gain": 0.03492993116378784,
+    "image": "123057.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 29.79299937200775,
+    "psnr_enhanced": 30.335470760941007,
+    "psnr_gain": 0.542471388933258,
+    "ssim_compressed": 0.8471825122833252,
+    "ssim_enhanced": 0.8732092380523682,
+    "ssim_gain": 0.02602672576904297,
+    "image": "123057.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 31.049487861277157,
+    "psnr_enhanced": 31.554111151932275,
+    "psnr_gain": 0.5046232906551182,
+    "ssim_compressed": 0.8836544156074524,
+    "ssim_enhanced": 0.9038375020027161,
+    "ssim_gain": 0.020183086395263672,
+    "image": "123057.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.952674208662945,
+    "psnr_enhanced": 32.44856553921735,
+    "psnr_gain": 0.4958913305544037,
+    "ssim_compressed": 0.9037014842033386,
+    "ssim_enhanced": 0.9199207425117493,
+    "ssim_gain": 0.016219258308410645,
+    "image": "123057.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 32.717522857335815,
+    "psnr_enhanced": 33.16090709296691,
+    "psnr_gain": 0.4433842356310933,
+    "ssim_compressed": 0.9179558753967285,
+    "ssim_enhanced": 0.9306128621101379,
+    "ssim_gain": 0.012656986713409424,
+    "image": "123057.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 27.41101496764555,
+    "psnr_enhanced": 28.269365768371458,
+    "psnr_gain": 0.8583508007259084,
+    "ssim_compressed": 0.7487295269966125,
+    "ssim_enhanced": 0.7908820509910583,
+    "ssim_gain": 0.0421525239944458,
+    "image": "128035.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 30.013835328146058,
+    "psnr_enhanced": 31.03874758934836,
+    "psnr_gain": 1.024912261202303,
+    "ssim_compressed": 0.8280429840087891,
+    "ssim_enhanced": 0.864091694355011,
+    "ssim_gain": 0.036048710346221924,
+    "image": "128035.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 31.441443906486136,
+    "psnr_enhanced": 32.3793801255391,
+    "psnr_gain": 0.9379362190529648,
+    "ssim_compressed": 0.8619765639305115,
+    "ssim_enhanced": 0.8918974995613098,
+    "ssim_gain": 0.02992093563079834,
+    "image": "128035.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 32.38821651690362,
+    "psnr_enhanced": 33.13786532607494,
+    "psnr_gain": 0.7496488091713189,
+    "ssim_compressed": 0.8824293613433838,
+    "ssim_enhanced": 0.9064526557922363,
+    "ssim_gain": 0.02402329444885254,
+    "image": "128035.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 33.14832434414842,
+    "psnr_enhanced": 33.76088549836673,
+    "psnr_gain": 0.6125611542183123,
+    "ssim_compressed": 0.8959166407585144,
+    "ssim_enhanced": 0.9154853224754333,
+    "ssim_gain": 0.019568681716918945,
+    "image": "128035.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.423377193857082,
+    "psnr_enhanced": 26.926029601474713,
+    "psnr_gain": 0.5026524076176315,
+    "ssim_compressed": 0.7510692477226257,
+    "ssim_enhanced": 0.7815389037132263,
+    "ssim_gain": 0.030469655990600586,
+    "image": "130014.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.769036319729054,
+    "psnr_enhanced": 29.424205555656236,
+    "psnr_gain": 0.6551692359271826,
+    "ssim_compressed": 0.8491231799125671,
+    "ssim_enhanced": 0.8745040893554688,
+    "ssim_gain": 0.02538090944290161,
+    "image": "130014.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.100686142725923,
+    "psnr_enhanced": 30.816373858912005,
+    "psnr_gain": 0.715687716186082,
+    "ssim_compressed": 0.8871505260467529,
+    "ssim_enhanced": 0.9070894122123718,
+    "ssim_gain": 0.019938886165618896,
+    "image": "130014.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.05117164646494,
+    "psnr_enhanced": 31.766210766826774,
+    "psnr_gain": 0.7150391203618334,
+    "ssim_compressed": 0.9074375629425049,
+    "ssim_enhanced": 0.9234389662742615,
+    "ssim_gain": 0.016001403331756592,
+    "image": "130014.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.80988009959613,
+    "psnr_enhanced": 32.47601768538361,
+    "psnr_gain": 0.6661375857874816,
+    "ssim_compressed": 0.9212948679924011,
+    "ssim_enhanced": 0.9347134232521057,
+    "ssim_gain": 0.01341855525970459,
+    "image": "130014.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.428298333162967,
+    "psnr_enhanced": 26.2922129966768,
+    "psnr_gain": 0.8639146635138317,
+    "ssim_compressed": 0.7843061089515686,
+    "ssim_enhanced": 0.821021318435669,
+    "ssim_gain": 0.03671520948410034,
+    "image": "130066.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.925167750023306,
+    "psnr_enhanced": 29.036911731499593,
+    "psnr_gain": 1.1117439814762875,
+    "ssim_compressed": 0.8695867657661438,
+    "ssim_enhanced": 0.9004971981048584,
+    "ssim_gain": 0.0309104323387146,
+    "image": "130066.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.5741773364823,
+    "psnr_enhanced": 30.556696873596287,
+    "psnr_gain": 0.982519537113987,
+    "ssim_compressed": 0.905499279499054,
+    "ssim_enhanced": 0.9284863471984863,
+    "ssim_gain": 0.022987067699432373,
+    "image": "130066.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.827792788771646,
+    "psnr_enhanced": 31.598380191198636,
+    "psnr_gain": 0.7705874024269903,
+    "ssim_compressed": 0.9231260418891907,
+    "ssim_enhanced": 0.9410958886146545,
+    "ssim_gain": 0.017969846725463867,
+    "image": "130066.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.83236471148403,
+    "psnr_enhanced": 32.31072976409499,
+    "psnr_gain": 0.4783650526109575,
+    "ssim_compressed": 0.9349601864814758,
+    "ssim_enhanced": 0.9498639702796936,
+    "ssim_gain": 0.014903783798217773,
+    "image": "130066.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.437902545319666,
+    "psnr_enhanced": 23.960631778598188,
+    "psnr_gain": 0.5227292332785218,
+    "ssim_compressed": 0.7383696436882019,
+    "ssim_enhanced": 0.7656794190406799,
+    "ssim_gain": 0.027309775352478027,
+    "image": "134049.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.76815316748146,
+    "psnr_enhanced": 26.445105985725892,
+    "psnr_gain": 0.6769528182444304,
+    "ssim_compressed": 0.8324072957038879,
+    "ssim_enhanced": 0.8585247993469238,
+    "ssim_gain": 0.02611750364303589,
+    "image": "134049.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.11487070758978,
+    "psnr_enhanced": 27.755615600443498,
+    "psnr_gain": 0.6407448928537178,
+    "ssim_compressed": 0.8704134821891785,
+    "ssim_enhanced": 0.8919668197631836,
+    "ssim_gain": 0.021553337574005127,
+    "image": "134049.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.065098506307024,
+    "psnr_enhanced": 28.6388245519382,
+    "psnr_gain": 0.5737260456311759,
+    "ssim_compressed": 0.8923996090888977,
+    "ssim_enhanced": 0.9098999500274658,
+    "ssim_gain": 0.017500340938568115,
+    "image": "134049.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 28.846740228154736,
+    "psnr_enhanced": 29.335903055013297,
+    "psnr_gain": 0.4891628268585606,
+    "ssim_compressed": 0.9076812863349915,
+    "ssim_enhanced": 0.9225637912750244,
+    "ssim_gain": 0.014882504940032959,
+    "image": "134049.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 22.187081016907943,
+    "psnr_enhanced": 22.90450815291824,
+    "psnr_gain": 0.7174271360102971,
+    "ssim_compressed": 0.7815499901771545,
+    "ssim_enhanced": 0.8043685555458069,
+    "ssim_gain": 0.022818565368652344,
+    "image": "134067.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 24.384582582244935,
+    "psnr_enhanced": 25.365519655111438,
+    "psnr_gain": 0.980937072866503,
+    "ssim_compressed": 0.8550176620483398,
+    "ssim_enhanced": 0.8781499862670898,
+    "ssim_gain": 0.02313232421875,
+    "image": "134067.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 25.789276760204963,
+    "psnr_enhanced": 26.832515269511884,
+    "psnr_gain": 1.0432385093069207,
+    "ssim_compressed": 0.8887991905212402,
+    "ssim_enhanced": 0.9091476798057556,
+    "ssim_gain": 0.02034848928451538,
+    "image": "134067.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 26.824386384526434,
+    "psnr_enhanced": 27.819469390924226,
+    "psnr_gain": 0.9950830063977918,
+    "ssim_compressed": 0.9083759188652039,
+    "ssim_enhanced": 0.9253702163696289,
+    "ssim_gain": 0.01699429750442505,
+    "image": "134067.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 27.65997794528607,
+    "psnr_enhanced": 28.558146499640916,
+    "psnr_gain": 0.8981685543548465,
+    "ssim_compressed": 0.9216139316558838,
+    "ssim_enhanced": 0.936476469039917,
+    "ssim_gain": 0.014862537384033203,
+    "image": "134067.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.09443071457845,
+    "psnr_enhanced": 25.757912912931236,
+    "psnr_gain": 0.663482198352785,
+    "ssim_compressed": 0.7946874499320984,
+    "ssim_enhanced": 0.8164387345314026,
+    "ssim_gain": 0.0217512845993042,
+    "image": "140006.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.610388693483763,
+    "psnr_enhanced": 28.343488693842826,
+    "psnr_gain": 0.7331000003590624,
+    "ssim_compressed": 0.8622296452522278,
+    "ssim_enhanced": 0.8813629746437073,
+    "ssim_gain": 0.019133329391479492,
+    "image": "140006.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.209457403337503,
+    "psnr_enhanced": 29.79991358476675,
+    "psnr_gain": 0.5904561814292464,
+    "ssim_compressed": 0.894526481628418,
+    "ssim_enhanced": 0.9098952412605286,
+    "ssim_gain": 0.015368759632110596,
+    "image": "140006.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.35212042125135,
+    "psnr_enhanced": 30.700307992592624,
+    "psnr_gain": 0.3481875713412741,
+    "ssim_compressed": 0.9126660227775574,
+    "ssim_enhanced": 0.9244899153709412,
+    "ssim_gain": 0.011823892593383789,
+    "image": "140006.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.19715662037291,
+    "psnr_enhanced": 31.287045094429146,
+    "psnr_gain": 0.08988847405623801,
+    "ssim_compressed": 0.9252774715423584,
+    "ssim_enhanced": 0.9341930747032166,
+    "ssim_gain": 0.008915603160858154,
+    "image": "140006.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 27.059458376259894,
+    "psnr_enhanced": 27.94520476333496,
+    "psnr_gain": 0.8857463870750664,
+    "ssim_compressed": 0.7791256904602051,
+    "ssim_enhanced": 0.8203681111335754,
+    "ssim_gain": 0.04124242067337036,
+    "image": "140088.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 29.406732303471067,
+    "psnr_enhanced": 30.480665884268817,
+    "psnr_gain": 1.0739335807977497,
+    "ssim_compressed": 0.8465916514396667,
+    "ssim_enhanced": 0.8798903822898865,
+    "ssim_gain": 0.03329873085021973,
+    "image": "140088.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.884571932537355,
+    "psnr_enhanced": 31.903170942418477,
+    "psnr_gain": 1.0185990098811217,
+    "ssim_compressed": 0.8784275650978088,
+    "ssim_enhanced": 0.9051182270050049,
+    "ssim_gain": 0.026690661907196045,
+    "image": "140088.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.86807985120428,
+    "psnr_enhanced": 32.77076073192233,
+    "psnr_gain": 0.9026808807180515,
+    "ssim_compressed": 0.8954846858978271,
+    "ssim_enhanced": 0.9181906580924988,
+    "ssim_gain": 0.02270597219467163,
+    "image": "140088.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 32.664576388506006,
+    "psnr_enhanced": 33.448866520976466,
+    "psnr_gain": 0.7842901324704599,
+    "ssim_compressed": 0.9079973697662354,
+    "ssim_enhanced": 0.9277182221412659,
+    "ssim_gain": 0.019720852375030518,
+    "image": "140088.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.573013592175457,
+    "psnr_enhanced": 27.140485552940117,
+    "psnr_gain": 0.5674719607646601,
+    "ssim_compressed": 0.7152659893035889,
+    "ssim_enhanced": 0.7421026825904846,
+    "ssim_gain": 0.026836693286895752,
+    "image": "14085.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.86043763570089,
+    "psnr_enhanced": 29.40101019006753,
+    "psnr_gain": 0.5405725543666406,
+    "ssim_compressed": 0.8141595721244812,
+    "ssim_enhanced": 0.8369510769844055,
+    "ssim_gain": 0.022791504859924316,
+    "image": "14085.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.18646394920124,
+    "psnr_enhanced": 30.603082780238132,
+    "psnr_gain": 0.41661883103689235,
+    "ssim_compressed": 0.8573701977729797,
+    "ssim_enhanced": 0.8750019073486328,
+    "ssim_gain": 0.017631709575653076,
+    "image": "14085.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.061888441881877,
+    "psnr_enhanced": 31.409981162719284,
+    "psnr_gain": 0.34809272083740694,
+    "ssim_compressed": 0.8813047409057617,
+    "ssim_enhanced": 0.8959546685218811,
+    "ssim_gain": 0.014649927616119385,
+    "image": "14085.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.764422548108165,
+    "psnr_enhanced": 32.00336510620717,
+    "psnr_gain": 0.238942558099005,
+    "ssim_compressed": 0.8973925113677979,
+    "ssim_enhanced": 0.9089727997779846,
+    "ssim_gain": 0.011580288410186768,
+    "image": "14085.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.458923871049894,
+    "psnr_enhanced": 26.80194094018259,
+    "psnr_gain": 0.3430170691326957,
+    "ssim_compressed": 0.7009875178337097,
+    "ssim_enhanced": 0.7220404148101807,
+    "ssim_gain": 0.021052896976470947,
+    "image": "14092.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.68503131260526,
+    "psnr_enhanced": 29.058621898077945,
+    "psnr_gain": 0.37359058547268376,
+    "ssim_compressed": 0.8097119331359863,
+    "ssim_enhanced": 0.8295478820800781,
+    "ssim_gain": 0.019835948944091797,
+    "image": "14092.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.947816313056247,
+    "psnr_enhanced": 30.267891750212446,
+    "psnr_gain": 0.32007543715619846,
+    "ssim_compressed": 0.8543173670768738,
+    "ssim_enhanced": 0.8704007267951965,
+    "ssim_gain": 0.016083359718322754,
+    "image": "14092.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.79051484019899,
+    "psnr_enhanced": 31.097905866396847,
+    "psnr_gain": 0.3073910261978554,
+    "ssim_compressed": 0.8788607120513916,
+    "ssim_enhanced": 0.8925418853759766,
+    "ssim_gain": 0.013681173324584961,
+    "image": "14092.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.478339299866462,
+    "psnr_enhanced": 31.709737483300458,
+    "psnr_gain": 0.23139818343399554,
+    "ssim_compressed": 0.8961977362632751,
+    "ssim_enhanced": 0.9077573418617249,
+    "ssim_gain": 0.011559605598449707,
+    "image": "14092.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.06566004203429,
+    "psnr_enhanced": 23.37175488850044,
+    "psnr_gain": 0.30609484646615215,
+    "ssim_compressed": 0.7350689768791199,
+    "ssim_enhanced": 0.7551059722900391,
+    "ssim_gain": 0.02003699541091919,
+    "image": "141012.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.077255499420072,
+    "psnr_enhanced": 25.511516950139132,
+    "psnr_gain": 0.43426145071905964,
+    "ssim_compressed": 0.8321806788444519,
+    "ssim_enhanced": 0.8499923348426819,
+    "ssim_gain": 0.01781165599822998,
+    "image": "141012.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 26.301381544603423,
+    "psnr_enhanced": 26.774017041182354,
+    "psnr_gain": 0.4726354965789312,
+    "ssim_compressed": 0.8711776733398438,
+    "ssim_enhanced": 0.886838972568512,
+    "ssim_gain": 0.015661299228668213,
+    "image": "141012.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 27.211820446349172,
+    "psnr_enhanced": 27.674659388320023,
+    "psnr_gain": 0.4628389419708512,
+    "ssim_compressed": 0.8936722874641418,
+    "ssim_enhanced": 0.9069838523864746,
+    "ssim_gain": 0.013311564922332764,
+    "image": "141012.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 28.014215019114594,
+    "psnr_enhanced": 28.43857971007898,
+    "psnr_gain": 0.424364690964385,
+    "ssim_compressed": 0.9102413058280945,
+    "ssim_enhanced": 0.9216216206550598,
+    "ssim_gain": 0.011380314826965332,
+    "image": "141012.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.027139506701893,
+    "psnr_enhanced": 25.342737192312956,
+    "psnr_gain": 0.3155976856110634,
+    "ssim_compressed": 0.6183099150657654,
+    "ssim_enhanced": 0.6408160328865051,
+    "ssim_gain": 0.022506117820739746,
+    "image": "141048.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.83872891165381,
+    "psnr_enhanced": 27.22280500196907,
+    "psnr_gain": 0.38407609031526135,
+    "ssim_compressed": 0.7355254292488098,
+    "ssim_enhanced": 0.7542697787284851,
+    "ssim_gain": 0.018744349479675293,
+    "image": "141048.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.86213062643476,
+    "psnr_enhanced": 28.1872719005398,
+    "psnr_gain": 0.32514127410503946,
+    "ssim_compressed": 0.7844788432121277,
+    "ssim_enhanced": 0.7990071773529053,
+    "ssim_gain": 0.014528334140777588,
+    "image": "141048.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.55132643030112,
+    "psnr_enhanced": 28.806519877895855,
+    "psnr_gain": 0.25519344759473483,
+    "ssim_compressed": 0.8118650317192078,
+    "ssim_enhanced": 0.8226920962333679,
+    "ssim_gain": 0.010827064514160156,
+    "image": "141048.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.119707701251613,
+    "psnr_enhanced": 29.303466757215105,
+    "psnr_gain": 0.18375905596349185,
+    "ssim_compressed": 0.8326688408851624,
+    "ssim_enhanced": 0.8392314910888672,
+    "ssim_gain": 0.006562650203704834,
+    "image": "141048.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.585982749188908,
+    "psnr_enhanced": 25.457718266377295,
+    "psnr_gain": 0.8717355171883874,
+    "ssim_compressed": 0.7763750553131104,
+    "ssim_enhanced": 0.811926543712616,
+    "ssim_gain": 0.035551488399505615,
+    "image": "145059.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.76783606489367,
+    "psnr_enhanced": 27.853754742412292,
+    "psnr_gain": 1.0859186775186203,
+    "ssim_compressed": 0.850830078125,
+    "ssim_enhanced": 0.8824679255485535,
+    "ssim_gain": 0.03163784742355347,
+    "image": "145059.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.100745259525375,
+    "psnr_enhanced": 29.14683130668282,
+    "psnr_gain": 1.046086047157445,
+    "ssim_compressed": 0.8850612640380859,
+    "ssim_enhanced": 0.9102810025215149,
+    "ssim_gain": 0.025219738483428955,
+    "image": "145059.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.060916891156097,
+    "psnr_enhanced": 30.035178906489243,
+    "psnr_gain": 0.9742620153331458,
+    "ssim_compressed": 0.9027202129364014,
+    "ssim_enhanced": 0.9241959452629089,
+    "ssim_gain": 0.02147573232650757,
+    "image": "145059.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.86738380105408,
+    "psnr_enhanced": 30.66103690936398,
+    "psnr_gain": 0.7936531083099005,
+    "ssim_compressed": 0.9165406823158264,
+    "ssim_enhanced": 0.9340124130249023,
+    "ssim_gain": 0.017471730709075928,
+    "image": "145059.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 23.1835103389814,
+    "psnr_enhanced": 23.549000465390154,
+    "psnr_gain": 0.3654901264087549,
+    "ssim_compressed": 0.6719121932983398,
+    "ssim_enhanced": 0.698321521282196,
+    "ssim_gain": 0.0264093279838562,
+    "image": "145079.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 25.042054078753907,
+    "psnr_enhanced": 25.549859545162754,
+    "psnr_gain": 0.5078054664088469,
+    "ssim_compressed": 0.7785938382148743,
+    "ssim_enhanced": 0.8028157353401184,
+    "ssim_gain": 0.02422189712524414,
+    "image": "145079.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 26.25033392766269,
+    "psnr_enhanced": 26.780630197136553,
+    "psnr_gain": 0.5302962694738618,
+    "ssim_compressed": 0.8247889876365662,
+    "ssim_enhanced": 0.8458710312843323,
+    "ssim_gain": 0.021082043647766113,
+    "image": "145079.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 27.170243458459083,
+    "psnr_enhanced": 27.721640436809434,
+    "psnr_gain": 0.5513969783503505,
+    "ssim_compressed": 0.853265106678009,
+    "ssim_enhanced": 0.8718854784965515,
+    "ssim_gain": 0.01862037181854248,
+    "image": "145079.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 27.994017593616913,
+    "psnr_enhanced": 28.51458404127952,
+    "psnr_gain": 0.5205664476626062,
+    "ssim_compressed": 0.874309241771698,
+    "ssim_enhanced": 0.8906794190406799,
+    "ssim_gain": 0.016370177268981934,
+    "image": "145079.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.85830455847772,
+    "psnr_enhanced": 26.610468861013832,
+    "psnr_gain": 0.7521643025361122,
+    "ssim_compressed": 0.8191019892692566,
+    "ssim_enhanced": 0.847337543964386,
+    "ssim_gain": 0.028235554695129395,
+    "image": "146074.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.221785089104046,
+    "psnr_enhanced": 29.37622946463684,
+    "psnr_gain": 1.154444375532794,
+    "ssim_compressed": 0.8721487522125244,
+    "ssim_enhanced": 0.9022148251533508,
+    "ssim_gain": 0.030066072940826416,
+    "image": "146074.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 29.71785414115974,
+    "psnr_enhanced": 30.88502602229771,
+    "psnr_gain": 1.1671718811379677,
+    "ssim_compressed": 0.898556649684906,
+    "ssim_enhanced": 0.9244574904441833,
+    "ssim_gain": 0.025900840759277344,
+    "image": "146074.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 30.76181275309725,
+    "psnr_enhanced": 31.894454755524563,
+    "psnr_gain": 1.132642002427314,
+    "ssim_compressed": 0.9124016761779785,
+    "ssim_enhanced": 0.9354049563407898,
+    "ssim_gain": 0.02300328016281128,
+    "image": "146074.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.668520509999702,
+    "psnr_enhanced": 32.642916933318105,
+    "psnr_gain": 0.974396423318403,
+    "ssim_compressed": 0.9229233860969543,
+    "ssim_enhanced": 0.942711591720581,
+    "ssim_gain": 0.01978820562362671,
+    "image": "146074.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.04405571561799,
+    "psnr_enhanced": 25.721038889975997,
+    "psnr_gain": 0.676983174358007,
+    "ssim_compressed": 0.7238408923149109,
+    "ssim_enhanced": 0.7584636211395264,
+    "ssim_gain": 0.03462272882461548,
+    "image": "147077.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.37617314137079,
+    "psnr_enhanced": 28.221406403015962,
+    "psnr_gain": 0.8452332616451734,
+    "ssim_compressed": 0.8257055878639221,
+    "ssim_enhanced": 0.8579421043395996,
+    "ssim_gain": 0.03223651647567749,
+    "image": "147077.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.807094482989438,
+    "psnr_enhanced": 29.61052403545719,
+    "psnr_gain": 0.803429552467751,
+    "ssim_compressed": 0.8683255314826965,
+    "ssim_enhanced": 0.8945894837379456,
+    "ssim_gain": 0.026263952255249023,
+    "image": "147077.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.797685329061665,
+    "psnr_enhanced": 30.522458266866032,
+    "psnr_gain": 0.7247729378043672,
+    "ssim_compressed": 0.8910314440727234,
+    "ssim_enhanced": 0.9123414158821106,
+    "ssim_gain": 0.021309971809387207,
+    "image": "147077.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.60934386956257,
+    "psnr_enhanced": 31.22368363064411,
+    "psnr_gain": 0.614339761081542,
+    "ssim_compressed": 0.9068415760993958,
+    "ssim_enhanced": 0.9240178465843201,
+    "ssim_gain": 0.017176270484924316,
+    "image": "147077.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.606426022284875,
+    "psnr_enhanced": 25.287535720157756,
+    "psnr_gain": 0.6811096978728806,
+    "ssim_compressed": 0.7626394629478455,
+    "ssim_enhanced": 0.79402095079422,
+    "ssim_gain": 0.03138148784637451,
+    "image": "147080.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.981121531490345,
+    "psnr_enhanced": 27.753677529571004,
+    "psnr_gain": 0.7725559980806587,
+    "ssim_compressed": 0.8448626399040222,
+    "ssim_enhanced": 0.8715498447418213,
+    "ssim_gain": 0.026687204837799072,
+    "image": "147080.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.372387129151395,
+    "psnr_enhanced": 29.015415445297744,
+    "psnr_gain": 0.6430283161463493,
+    "ssim_compressed": 0.8805863857269287,
+    "ssim_enhanced": 0.9024580121040344,
+    "ssim_gain": 0.021871626377105713,
+    "image": "147080.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.390637519251573,
+    "psnr_enhanced": 29.897213769857693,
+    "psnr_gain": 0.5065762506061198,
+    "ssim_compressed": 0.9007585048675537,
+    "ssim_enhanced": 0.9175556302070618,
+    "ssim_gain": 0.016797125339508057,
+    "image": "147080.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.23197998564731,
+    "psnr_enhanced": 30.53296433583277,
+    "psnr_gain": 0.300984350185459,
+    "ssim_compressed": 0.9152576327323914,
+    "ssim_enhanced": 0.928164005279541,
+    "ssim_gain": 0.012906372547149658,
+    "image": "147080.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 26.327299577690866,
+    "psnr_enhanced": 26.929755183751126,
+    "psnr_gain": 0.6024556060602606,
+    "ssim_compressed": 0.7391042113304138,
+    "ssim_enhanced": 0.7693440318107605,
+    "ssim_gain": 0.03023982048034668,
+    "image": "15011.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 28.78438957971575,
+    "psnr_enhanced": 29.482917718689386,
+    "psnr_gain": 0.6985281389736357,
+    "ssim_compressed": 0.8271731734275818,
+    "ssim_enhanced": 0.8542816042900085,
+    "ssim_gain": 0.027108430862426758,
+    "image": "15011.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 30.211522899169317,
+    "psnr_enhanced": 30.863131584201202,
+    "psnr_gain": 0.651608685031885,
+    "ssim_compressed": 0.8656097054481506,
+    "ssim_enhanced": 0.888820469379425,
+    "ssim_gain": 0.023210763931274414,
+    "image": "15011.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 31.15278845444925,
+    "psnr_enhanced": 31.734945864661718,
+    "psnr_gain": 0.5821574102124671,
+    "ssim_compressed": 0.887929379940033,
+    "ssim_enhanced": 0.9069073796272278,
+    "ssim_gain": 0.018977999687194824,
+    "image": "15011.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 31.92432934419007,
+    "psnr_enhanced": 32.39413796760125,
+    "psnr_gain": 0.4698086234111827,
+    "ssim_compressed": 0.9027977585792542,
+    "ssim_enhanced": 0.9185392260551453,
+    "ssim_gain": 0.015741467475891113,
+    "image": "15011.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 24.389977380109134,
+    "psnr_enhanced": 24.898235530390064,
+    "psnr_gain": 0.5082581502809305,
+    "ssim_compressed": 0.7071482539176941,
+    "ssim_enhanced": 0.743588387966156,
+    "ssim_gain": 0.036440134048461914,
+    "image": "15062.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 26.578370772021994,
+    "psnr_enhanced": 27.253612735592828,
+    "psnr_gain": 0.6752419635708335,
+    "ssim_compressed": 0.80756014585495,
+    "ssim_enhanced": 0.8384650349617004,
+    "ssim_gain": 0.03090488910675049,
+    "image": "15062.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 27.936874356309417,
+    "psnr_enhanced": 28.562023066758,
+    "psnr_gain": 0.6251487104485847,
+    "ssim_compressed": 0.8529927730560303,
+    "ssim_enhanced": 0.8783634305000305,
+    "ssim_gain": 0.025370657444000244,
+    "image": "15062.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 28.932735826091303,
+    "psnr_enhanced": 29.5180014525732,
+    "psnr_gain": 0.5852656264818954,
+    "ssim_compressed": 0.8784032464027405,
+    "ssim_enhanced": 0.8985175490379333,
+    "ssim_gain": 0.02011430263519287,
+    "image": "15062.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 29.758801793655074,
+    "psnr_enhanced": 30.21294262386981,
+    "psnr_gain": 0.4541408302147367,
+    "ssim_compressed": 0.8960251808166504,
+    "ssim_enhanced": 0.9124744534492493,
+    "ssim_gain": 0.016449272632598877,
+    "image": "15062.jpg"
+  },
+  {
+    "quality": 10,
+    "psnr_compressed": 25.4604596085562,
+    "psnr_enhanced": 25.838791991379377,
+    "psnr_gain": 0.37833238282317794,
+    "ssim_compressed": 0.7438437342643738,
+    "ssim_enhanced": 0.7790188789367676,
+    "ssim_gain": 0.0351751446723938,
+    "image": "156054.jpg"
+  },
+  {
+    "quality": 20,
+    "psnr_compressed": 27.685417447674784,
+    "psnr_enhanced": 28.206305740382444,
+    "psnr_gain": 0.5208882927076601,
+    "ssim_compressed": 0.8247464299201965,
+    "ssim_enhanced": 0.858300507068634,
+    "ssim_gain": 0.0335540771484375,
+    "image": "156054.jpg"
+  },
+  {
+    "quality": 30,
+    "psnr_compressed": 28.86698075974724,
+    "psnr_enhanced": 29.380867649734384,
+    "psnr_gain": 0.5138868899871447,
+    "ssim_compressed": 0.8629613518714905,
+    "ssim_enhanced": 0.8909658789634705,
+    "ssim_gain": 0.02800452709197998,
+    "image": "156054.jpg"
+  },
+  {
+    "quality": 40,
+    "psnr_compressed": 29.7017543269386,
+    "psnr_enhanced": 30.12633691348393,
+    "psnr_gain": 0.424582586545327,
+    "ssim_compressed": 0.8862462043762207,
+    "ssim_enhanced": 0.9073446393013,
+    "ssim_gain": 0.021098434925079346,
+    "image": "156054.jpg"
+  },
+  {
+    "quality": 50,
+    "psnr_compressed": 30.402021872975826,
+    "psnr_enhanced": 30.833640858155746,
+    "psnr_gain": 0.43161898517992014,
+    "ssim_compressed": 0.9007614254951477,
+    "ssim_enhanced": 0.9179162979125977,
+    "ssim_gain": 0.01715487241744995,
+    "image": "156054.jpg"
+  }
+]
